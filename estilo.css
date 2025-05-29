@@ -1,5 +1,6 @@
 body{
-    background-color: red;
+    background: #185c11;
+background: linear-gradient(0deg, rgba(24, 92, 17, 1) 0%, rgba(69, 90, 196, 1) 100%);
     color: white;
     font-size: 48px;
 }
