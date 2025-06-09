@@ -6,6 +6,11 @@ background: linear-gradient(0deg, rgba(24, 92, 17, 1) 0%, rgba(69, 90, 196, 1) 1
     height: 100vh;
 }
 
-.cabecalho-img{
-    width: 200%;
+.cabecalho{
+    background-image: url('./img/fundo.png');
 }
+
+.cabecalho-img{
+    width: 20%;
+}
+
