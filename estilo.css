@@ -10,8 +10,7 @@ background: linear-gradient(0deg, rgba(24, 92, 17, 1) 0%, rgba(69, 90, 196, 1) 1
     background-image: url('./img/fundo.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: 150px;
-    background-position-y: 300px;
+    background-position: top center;
     height: 300px;
 }
 
