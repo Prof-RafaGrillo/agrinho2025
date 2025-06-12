@@ -13,6 +13,7 @@ background: linear-gradient(0deg, rgba(24, 92, 17, 1) 0%, rgba(69, 90, 196, 1) 1
     background-position: top center;
     height: 300px;
     display: flex;
+    font-size: 20px;
 }
 
 .cabecalho-img{
